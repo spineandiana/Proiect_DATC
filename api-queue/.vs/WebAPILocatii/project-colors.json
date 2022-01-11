@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "dd3ab748-60e4-445d-8d1e-648bba2c5589": {
+      "ProjectGuid": "dd3ab748-60e4-445d-8d1e-648bba2c5589",
+      "DisplayName": "WebAPILocatii",
+      "ColorIndex": 0
+    },
+    "2dbc9bf9-d45e-4c10-8fbe-d2954ef315c0": {
+      "ProjectGuid": "2dbc9bf9-d45e-4c10-8fbe-d2954ef315c0",
+      "DisplayName": "WebAPILocatii",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
